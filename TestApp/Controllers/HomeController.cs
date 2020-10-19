@@ -12,6 +12,7 @@ namespace TestApp.Controllers
     {
         public IActionResult Index()
         {
+            string A = "";
             return View();
         }
 
